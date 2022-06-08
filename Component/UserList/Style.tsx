@@ -21,7 +21,7 @@ export const listcontainer = styled.View`
 `
 export const Imagecontainer = styled.View`
   width : 20%;
-  height: 3.12rem;
+  height: 3.5rem;
   padding-right: 10px;
 `
 export const Namecontainer = styled.View`
@@ -33,6 +33,7 @@ export const Text = styled.Text`
 export const  image = styled.Image`
  width: 100%;
  height: 100%;
+
  
 `
 
